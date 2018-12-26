@@ -1,6 +1,6 @@
 {
   "name": "docx-revision-remover",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +17,13 @@
 		"type": "git",
 		"url": "git+https://github.com/Aserus/node-docx-revision-remover.git"
 	},
+	"keywords": [
+    "docx",
+    "office",
+    "word",
+		"revision",
+    "document"
+  ],
 	"author": {
 		"name": "Warus"
 	}
