@@ -49,4 +49,4 @@ Output path
 
 ## License
 
-MIT © [Sindre Sorhus](https://sindresorhus.com)
+MIT ©
