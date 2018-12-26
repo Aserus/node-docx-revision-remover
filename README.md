@@ -1,7 +1,7 @@
 # docx-revision-remover
 
 
-> Accept all changes in DOCX file
+> Accept all track changes in DOCX file
 
 
 
@@ -36,12 +36,14 @@ const result = await remover(src,dst);
 #### src
 
 Type: `string`
+
 Input path
 
 
 #### dst
 
 Type: `string`
+
 Output path
 
 
