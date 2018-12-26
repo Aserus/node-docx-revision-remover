@@ -1,0 +1,1 @@
+# node-docx-revision-remover
