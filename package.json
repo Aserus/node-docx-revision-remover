@@ -1,12 +1,10 @@
 {
   "name": "docx-revision-remover",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "archiver": "^3.0.0",
     "tempdir": "^2.0.0",
