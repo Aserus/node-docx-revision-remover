@@ -13,3 +13,7 @@ node_modules
 tmp
 npm-debug.log
 run
+
+package-lock.json
+test
+test.js

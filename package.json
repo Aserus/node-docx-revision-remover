@@ -1,6 +1,6 @@
 {
   "name": "docx-revision-remover",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,19 +12,19 @@
     "unzipper": "^0.9.7",
     "xml-js": "^1.6.8"
   },
-	"license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/Aserus/node-docx-revision-remover.git"
-	},
-	"keywords": [
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aserus/node-docx-revision-remover.git"
+  },
+  "keywords": [
     "docx",
     "office",
     "word",
-		"revision",
+    "revision",
     "document"
   ],
-	"author": {
-		"name": "Warus"
-	}
+  "author": {
+    "name": "Warus"
+  }
 }
